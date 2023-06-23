@@ -1,6 +1,6 @@
 import sys
 import re
-#-----------------------------Connection to DB funtions-----------------------------------------------------------------------------
+#-----------------------------Connection to DB funtions------------------------------------------------------------------------------
 import pymysql
 import os
 from dotenv import load_dotenv
